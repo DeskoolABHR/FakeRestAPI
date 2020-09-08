@@ -1,0 +1,24 @@
+{
+    "schools": [
+        {
+            "_id": "1",
+            "name": "Independence Technical School"
+        },
+        {
+            "_id": "2",
+            "name": "Lone Pine School"
+        },
+        {
+            "_id": "3",
+            "name": "Sacred Heart College"
+        },
+        {
+            "_id": "4",
+            "name": "Maple Park Academy"
+        },
+        {
+            "_id": "5",
+            "name": "Diamond Academy"
+        }
+    ]
+}
