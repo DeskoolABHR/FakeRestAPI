@@ -47,10 +47,20 @@
             "school": "Universidade de Aveiro",
             "principal": "Tabb Foro",
             "introduction": "Mech compl of internal prosth dev/grft",
-            "classes": {
-                "c": 9,
-                "A": 882
-            },
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         },
         {
@@ -58,10 +68,32 @@
             "school": "Balochistan University of Information Technology & Management Sciences ",
             "principal": "Alyosha Pryor",
             "introduction": "Unspecified fracture of lower end of unspecified tibia",
-            "classes": {
-                "c": 11,
-                "A": 517
-            },
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 3,
+                    "price": 678
+                },
+                {
+                    "class": 5,
+                    "price": 876
+                },
+                {
+                    "class": 7,
+                    "price": 86
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         },
         {
@@ -69,10 +101,16 @@
             "school": "Qingdao University of Science and Technology",
             "principal": "Kellby Bostock",
             "introduction": "Age-rel osteopor w crnt path fx, unsp site, 7thK",
-            "classes": {
-                "c": 10,
-                "A": 703
-            },
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         },
         {
@@ -80,10 +118,20 @@
             "school": "Cag University",
             "principal": "Trula Kiddie",
             "introduction": "Toxic effect of fluorine gas and hydrogen fluoride, acc",
-            "classes": {
-                "c": 11,
-                "A": 616
-            },
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         },
         {
@@ -91,10 +139,12 @@
             "school": "Longwood College",
             "principal": "Miller Birk",
             "introduction": "Other secondary osteonecrosis, left shoulder",
-            "classes": {
-                "c": 5,
-                "A": 704
-            },
+            "classes": [
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         },
         {
@@ -102,10 +152,20 @@
             "school": "Shizuoka Sangyo University",
             "principal": "Doria Clapp",
             "introduction": "Person outside special industr vehicle injured in traf, subs",
-            "classes": {
-                "c": 5,
-                "A": 564
-            },
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 3,
+                    "price": 678
+                },
+                {
+                    "class": 5,
+                    "price": 876
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         },
         {
@@ -113,10 +173,24 @@
             "school": "Pädagogische Hochschule Zürich (Zurich School of Education)",
             "principal": "Rosabella Johnes",
             "introduction": "Malignant neoplasm of ascending colon",
-            "classes": {
-                "c": 1,
-                "A": 885
-            },
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 3,
+                    "price": 678
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         },
         {
@@ -124,10 +198,24 @@
             "school": "Université des Antilles et de la Guyane",
             "principal": "Lindsey Schole",
             "introduction": "Nondisp fx of intermed cuneiform of r foot, init for opn fx",
-            "classes": {
-                "c": 12,
-                "A": 915
-            },
+            "classes": [
+                {
+                    "class": 5,
+                    "price": 876
+                },
+                {
+                    "class": 7,
+                    "price": 86
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         },
         {
@@ -135,10 +223,24 @@
             "school": "Uganda Martyr's University",
             "principal": "Michelina Coaker",
             "introduction": "Unsp intracap fx l femr, 7thR",
-            "classes": {
-                "c": 11,
-                "A": 819
-            },
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 3,
+                    "price": 678
+                },
+                {
+                    "class": 5,
+                    "price": 876
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         },
         {
@@ -146,10 +248,24 @@
             "school": "University of Nijenrode",
             "principal": "Fonz Daber",
             "introduction": "Unspecified superficial injury of unspecified shoulder",
-            "classes": {
-                "c": 6,
-                "A": 636
-            },
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 5,
+                    "price": 876
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
             "info": "error: undefined method `/' for nil:NilClass"
         }
     ]
