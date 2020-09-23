@@ -279,6 +279,10 @@
       "unreadMessageCount": 11,
       "message": [
         "registration sucessfull",
+        "youre not selected for this school",
+         "registration sucessfull",
+        "youre not selected for this school",
+         "registration sucessfull",
         "youre not selected for this school"
       ]
     },
@@ -292,7 +296,11 @@
       "message": [
         "registration sucessfull",
         "Your result has been published",
-        "Please go ahead and pay the fees"
+        "Please go ahead and pay the fees",
+         "registration sucessfull",
+        "youre not selected for this school",
+         "registration sucessfull",
+        "youre not selected for this school"
       ]
     }
   ]
