@@ -268,5 +268,32 @@
             ],
             "info": "error: undefined method `/' for nil:NilClass"
         }
-    ]
+    ],
+    "registrations": [
+    {
+      "regNo": 23478,
+      "school": "XYZ Public School",
+      "status": "Pending",
+      "name": "Vikash Kumar",
+      "class": 7,
+      "unreadMessageCount": 11,
+      "message": [
+        "registration sucessfull",
+        "youre not selected for this school"
+      ]
+    },
+    {
+      "regNo": 34545,
+      "school": "ABC Intermediate College",
+      "status": "Rejected",
+      "name": "Atul Kumar",
+      "class": 12,
+      "unreadMessageCount": 21,
+      "message": [
+        "registration sucessfull",
+        "Your result has been published",
+        "Please go ahead and pay the fees"
+      ]
+    }
+  ]
 }
