@@ -1,307 +1,524 @@
 {
-  "schools": [
-    {
-      "_id": "1",
-      "name": "Universidade de Aveiro"
-    },
-    {
-      "_id": "2",
-      "name": "Balochistan University of Information Technology & Management Sciences"
-    },
-    {
-      "_id": "3",
-      "name": "Qingdao University of Science and Technology"
-    },
-    {
-      "_id": "4",
-      "name": "Cag University"
-    },
-    {
-      "_id": "5",
-      "name": "Longwood College"
-    },
-    {
-      "_id": "6",
-      "name": "Shizuoka Sangyo University"
-    },
-    {
-      "_id": "7",
-      "name": "Pädagogische Hochschule Zürich (Zurich School of Education)"
-    },
-    {
-      "_id": "8",
-      "name": "Université des Antilles et de la Guyane"
-    },
-    {
-      "_id": "9",
-      "name": "Uganda Martyr's University"
-    },
-    {
-      "_id": "10",
-      "name": "University of Nijenrode"
+    "schools": [
+        {
+            "_id": "1",
+            "name": "Universidade de Aveiro"
+        },
+        {
+            "_id": "2",
+            "name": "Balochistan University of Information Technology & Management Sciences"
+        },
+        {
+            "_id": "3",
+            "name": "Qingdao University of Science and Technology"
+        },
+        {
+            "_id": "4",
+            "name": "Cag University"
+        },
+        {
+            "_id": "5",
+            "name": "Longwood College"
+        },
+        {
+            "_id": "6",
+            "name": "Shizuoka Sangyo University"
+        },
+        {
+            "_id": "7",
+            "name": "Pädagogische Hochschule Zürich (Zurich School of Education)"
+        },
+        {
+            "_id": "8",
+            "name": "Université des Antilles et de la Guyane"
+        },
+        {
+            "_id": "9",
+            "name": "Uganda Martyr's University"
+        },
+        {
+            "_id": "10",
+            "name": "University of Nijenrode"
+        }
+    ],
+    "schoolInfo": [
+        {
+            "id": 1,
+            "school": "Universidade de Aveiro",
+            "principal": "Tabb Foro",
+            "introduction": "Mech compl of internal prosth dev/grft",
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        },
+        {
+            "id": 2,
+            "school": "Balochistan University of Information Technology & Management Sciences ",
+            "principal": "Alyosha Pryor",
+            "introduction": "Unspecified fracture of lower end of unspecified tibia",
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 3,
+                    "price": 678
+                },
+                {
+                    "class": 5,
+                    "price": 876
+                },
+                {
+                    "class": 7,
+                    "price": 86
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        },
+        {
+            "id": 3,
+            "school": "Qingdao University of Science and Technology",
+            "principal": "Kellby Bostock",
+            "introduction": "Age-rel osteopor w crnt path fx, unsp site, 7thK",
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        },
+        {
+            "id": 4,
+            "school": "Cag University",
+            "principal": "Trula Kiddie",
+            "introduction": "Toxic effect of fluorine gas and hydrogen fluoride, acc",
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        },
+        {
+            "id": 5,
+            "school": "Longwood College",
+            "principal": "Miller Birk",
+            "introduction": "Other secondary osteonecrosis, left shoulder",
+            "classes": [
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        },
+        {
+            "id": 6,
+            "school": "Shizuoka Sangyo University",
+            "principal": "Doria Clapp",
+            "introduction": "Person outside special industr vehicle injured in traf, subs",
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 3,
+                    "price": 678
+                },
+                {
+                    "class": 5,
+                    "price": 876
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        },
+        {
+            "id": 7,
+            "school": "Pädagogische Hochschule Zürich (Zurich School of Education)",
+            "principal": "Rosabella Johnes",
+            "introduction": "Malignant neoplasm of ascending colon",
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 3,
+                    "price": 678
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        },
+        {
+            "id": 8,
+            "school": "Université des Antilles et de la Guyane",
+            "principal": "Lindsey Schole",
+            "introduction": "Nondisp fx of intermed cuneiform of r foot, init for opn fx",
+            "classes": [
+                {
+                    "class": 5,
+                    "price": 876
+                },
+                {
+                    "class": 7,
+                    "price": 86
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        },
+        {
+            "id": 9,
+            "school": "Uganda Martyr's University",
+            "principal": "Michelina Coaker",
+            "introduction": "Unsp intracap fx l femr, 7thR",
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 3,
+                    "price": 678
+                },
+                {
+                    "class": 5,
+                    "price": 876
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        },
+        {
+            "id": 10,
+            "school": "University of Nijenrode",
+            "principal": "Fonz Daber",
+            "introduction": "Unspecified superficial injury of unspecified shoulder",
+            "classes": [
+                {
+                    "class": 1,
+                    "price": 234
+                },
+                {
+                    "class": 5,
+                    "price": 876
+                },
+                {
+                    "class": 9,
+                    "price": 567
+                },
+                {
+                    "class": 10,
+                    "price": 423
+                }
+            ],
+            "info": "error: undefined method `/' for nil:NilClass"
+        }
+    ],
+    "registrations": [
+        {
+            "regNo": 23478,
+            "school": "XYZ Public School",
+            "status": "Pending",
+            "name": "Vikash Kumar",
+            "class": 7,
+            "unreadMessageCount": 11,
+            "message": [
+                "registration sucessfull",
+                "youre not selected for this school",
+                "registration sucessfull",
+                "youre not selected for this school",
+                "registration sucessfull",
+                "youre not selected for this school"
+            ]
+        },
+        {
+            "regNo": 34545,
+            "school": "ABC Intermediate College",
+            "status": "Rejected",
+            "name": "Atul Kumar",
+            "class": 12,
+            "unreadMessageCount": 21,
+            "message": [
+                "registration sucessfull",
+                "Your result has been published",
+                "Please go ahead and pay the fees",
+                "registration sucessfull",
+                "youre not selected for this school",
+                "registration sucessfull",
+                "youre not selected for this school"
+            ]
+        }
+    ],
+    "admissionsDashboardDetails": {
+        "totalStudents": 2314,
+        "promotions": 2001,
+        "newAdmissions": 324,
+        "newAdmissionsDetails": [
+            {
+                "regNo": "5f72c8fa0ce2ca3657e8a7a3",
+                "picture": "http://placehold.it/32x32",
+                "grade": 4,
+                "name": "Juliet Curtis",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8faa2adddd46c1b9006",
+                "picture": "http://placehold.it/32x32",
+                "grade": 3,
+                "name": "Berg Emerson",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa26fdeebd317952bc",
+                "picture": "http://placehold.it/32x32",
+                "grade": 8,
+                "name": "Jody Rojas",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8facfde63d09450a7ec",
+                "picture": "http://placehold.it/32x32",
+                "grade": 12,
+                "name": "Fox Wagner",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa1048e4a1111f57cf",
+                "picture": "http://placehold.it/32x32",
+                "grade": 8,
+                "name": "Eugenia Rodgers",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fa907e2957fbd54a86",
+                "picture": "http://placehold.it/32x32",
+                "grade": 4,
+                "name": "Shelly Coffey",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8faaf340fca3a22797e",
+                "picture": "http://placehold.it/32x32",
+                "grade": 9,
+                "name": "Washington Horton",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa76d60b5e61997dd5",
+                "picture": "http://placehold.it/32x32",
+                "grade": 2,
+                "name": "White Waters",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8faa43dac2b9d8be9a0",
+                "picture": "http://placehold.it/32x32",
+                "grade": 5,
+                "name": "Gibson Sears",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa4e0b51c9f011d719",
+                "picture": "http://placehold.it/32x32",
+                "grade": 5,
+                "name": "Jessica Sellers",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8facb0d7e46efbc73d8",
+                "picture": "http://placehold.it/32x32",
+                "grade": 10,
+                "name": "Noelle Watts",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fa5c7ae578987b76d4",
+                "picture": "http://placehold.it/32x32",
+                "grade": 11,
+                "name": "Therese Conner",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fad91a4210bc945e9b",
+                "picture": "http://placehold.it/32x32",
+                "grade": 6,
+                "name": "Leon Franco",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fad9d4f9818e30e917",
+                "picture": "http://placehold.it/32x32",
+                "grade": 7,
+                "name": "Brown Branch",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa9029a5ccf7ab2588",
+                "picture": "http://placehold.it/32x32",
+                "grade": 9,
+                "name": "Rachelle Norton",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fa996565ab5c39d2a0",
+                "picture": "http://placehold.it/32x32",
+                "grade": 9,
+                "name": "Laurel Roth",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fa275accd7b11196c6",
+                "picture": "http://placehold.it/32x32",
+                "grade": 9,
+                "name": "Latonya Joseph",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8faab841bfe0a6154ac",
+                "picture": "http://placehold.it/32x32",
+                "grade": 2,
+                "name": "Townsend Walton",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa0add86c4f6b6ed30",
+                "picture": "http://placehold.it/32x32",
+                "grade": 10,
+                "name": "Wise Andrews",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa758bc8e13320282a",
+                "picture": "http://placehold.it/32x32",
+                "grade": 9,
+                "name": "Belinda Stout",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fa0cbb765ee79e98a4",
+                "picture": "http://placehold.it/32x32",
+                "grade": 12,
+                "name": "Donovan Cain",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fae8ced451c0cea3d5",
+                "picture": "http://placehold.it/32x32",
+                "grade": 5,
+                "name": "Diane Hester",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fa22e6445f518ccd4c",
+                "picture": "http://placehold.it/32x32",
+                "grade": 5,
+                "name": "Lakisha Koch",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fa4bd0cd5aff057603",
+                "picture": "http://placehold.it/32x32",
+                "grade": 6,
+                "name": "Priscilla Shields",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fa10ed9e4cdd9eef04",
+                "picture": "http://placehold.it/32x32",
+                "grade": 9,
+                "name": "Atkinson Shepard",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa1e161b28961b1440",
+                "picture": "http://placehold.it/32x32",
+                "grade": 12,
+                "name": "Guerrero Rodriquez",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa30ac4fe2cf35a4e3",
+                "picture": "http://placehold.it/32x32",
+                "grade": 8,
+                "name": "Vaughn Norris",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa08d5e2da88914098",
+                "picture": "http://placehold.it/32x32",
+                "grade": 4,
+                "name": "Keller Moore",
+                "gender": "male"
+            },
+            {
+                "regNo": "5f72c8fa5dc44b0e3d387c87",
+                "picture": "http://placehold.it/32x32",
+                "grade": 7,
+                "name": "Tricia Rowe",
+                "gender": "female"
+            },
+            {
+                "regNo": "5f72c8fa003034205d42ce54",
+                "picture": "http://placehold.it/32x32",
+                "grade": 6,
+                "name": "Chris Dillon",
+                "gender": "female"
+            }
+        ]
     }
-  ],
-  "schoolInfo": [
-    {
-      "id": 1,
-      "school": "Universidade de Aveiro",
-      "principal": "Tabb Foro",
-      "introduction": "Mech compl of internal prosth dev/grft",
-      "classes": [
-        {
-          "class": 1,
-          "price": 234
-        },
-        {
-          "class": 9,
-          "price": 567
-        },
-        {
-          "class": 10,
-          "price": 423
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    },
-    {
-      "id": 2,
-      "school": "Balochistan University of Information Technology & Management Sciences ",
-      "principal": "Alyosha Pryor",
-      "introduction": "Unspecified fracture of lower end of unspecified tibia",
-      "classes": [
-        {
-          "class": 1,
-          "price": 234
-        },
-        {
-          "class": 3,
-          "price": 678
-        },
-        {
-          "class": 5,
-          "price": 876
-        },
-        {
-          "class": 7,
-          "price": 86
-        },
-        {
-          "class": 9,
-          "price": 567
-        },
-        {
-          "class": 10,
-          "price": 423
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    },
-    {
-      "id": 3,
-      "school": "Qingdao University of Science and Technology",
-      "principal": "Kellby Bostock",
-      "introduction": "Age-rel osteopor w crnt path fx, unsp site, 7thK",
-      "classes": [
-        {
-          "class": 1,
-          "price": 234
-        },
-        {
-          "class": 10,
-          "price": 423
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    },
-    {
-      "id": 4,
-      "school": "Cag University",
-      "principal": "Trula Kiddie",
-      "introduction": "Toxic effect of fluorine gas and hydrogen fluoride, acc",
-      "classes": [
-        {
-          "class": 1,
-          "price": 234
-        },
-        {
-          "class": 9,
-          "price": 567
-        },
-        {
-          "class": 10,
-          "price": 423
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    },
-    {
-      "id": 5,
-      "school": "Longwood College",
-      "principal": "Miller Birk",
-      "introduction": "Other secondary osteonecrosis, left shoulder",
-      "classes": [
-        {
-          "class": 10,
-          "price": 423
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    },
-    {
-      "id": 6,
-      "school": "Shizuoka Sangyo University",
-      "principal": "Doria Clapp",
-      "introduction": "Person outside special industr vehicle injured in traf, subs",
-      "classes": [
-        {
-          "class": 1,
-          "price": 234
-        },
-        {
-          "class": 3,
-          "price": 678
-        },
-        {
-          "class": 5,
-          "price": 876
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    },
-    {
-      "id": 7,
-      "school": "Pädagogische Hochschule Zürich (Zurich School of Education)",
-      "principal": "Rosabella Johnes",
-      "introduction": "Malignant neoplasm of ascending colon",
-      "classes": [
-        {
-          "class": 1,
-          "price": 234
-        },
-        {
-          "class": 3,
-          "price": 678
-        },
-        {
-          "class": 9,
-          "price": 567
-        },
-        {
-          "class": 10,
-          "price": 423
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    },
-    {
-      "id": 8,
-      "school": "Université des Antilles et de la Guyane",
-      "principal": "Lindsey Schole",
-      "introduction": "Nondisp fx of intermed cuneiform of r foot, init for opn fx",
-      "classes": [
-        {
-          "class": 5,
-          "price": 876
-        },
-        {
-          "class": 7,
-          "price": 86
-        },
-        {
-          "class": 9,
-          "price": 567
-        },
-        {
-          "class": 10,
-          "price": 423
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    },
-    {
-      "id": 9,
-      "school": "Uganda Martyr's University",
-      "principal": "Michelina Coaker",
-      "introduction": "Unsp intracap fx l femr, 7thR",
-      "classes": [
-        {
-          "class": 1,
-          "price": 234
-        },
-        {
-          "class": 3,
-          "price": 678
-        },
-        {
-          "class": 5,
-          "price": 876
-        },
-        {
-          "class": 10,
-          "price": 423
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    },
-    {
-      "id": 10,
-      "school": "University of Nijenrode",
-      "principal": "Fonz Daber",
-      "introduction": "Unspecified superficial injury of unspecified shoulder",
-      "classes": [
-        {
-          "class": 1,
-          "price": 234
-        },
-        {
-          "class": 5,
-          "price": 876
-        },
-        {
-          "class": 9,
-          "price": 567
-        },
-        {
-          "class": 10,
-          "price": 423
-        }
-      ],
-      "info": "error: undefined method `/' for nil:NilClass"
-    }
-  ],
-  "registrations": [
-    {
-      "regNo": 23478,
-      "school": "XYZ Public School",
-      "status": "Pending",
-      "name": "Vikash Kumar",
-      "class": 7,
-      "unreadMessageCount": 11,
-      "message": [
-        "registration sucessfull",
-        "youre not selected for this school",
-         "registration sucessfull",
-        "youre not selected for this school",
-         "registration sucessfull",
-        "youre not selected for this school"
-      ]
-    },
-    {
-      "regNo": 34545,
-      "school": "ABC Intermediate College",
-      "status": "Rejected",
-      "name": "Atul Kumar",
-      "class": 12,
-      "unreadMessageCount": 21,
-      "message": [
-        "registration sucessfull",
-        "Your result has been published",
-        "Please go ahead and pay the fees",
-         "registration sucessfull",
-        "youre not selected for this school",
-         "registration sucessfull",
-        "youre not selected for this school"
-      ]
-    }
-  ]
 }
